@@ -1,0 +1,3 @@
+[submodule "testchild/Parent"]
+	path = testchild/Parent
+	url = https://github.com/danielraja/Parent.git
